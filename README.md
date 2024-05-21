@@ -32,14 +32,87 @@
 </p>
 <br>
 <div dir="auto">                                              
-<h1 align="center">Certificates 📜 </h1>
+<h1 align="left">Certificates 📜 </h1>
 </div>
+ <div dir="auto">
+  <p align="center">
+<table>
+<tbody><tr>
+  <th> C# - CSharp (.NET) </th>
+  <th> Front-End </th>
+</tr>
+<tr>
+<td>
+<table>
+<thead>
+<tr>
+<th><strong>Course</strong></th>
+<th><strong>Link</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://softuni.bg/trainings/3740/programming-basics-with-csharp-april-2022" rel="nofollow"> Programming Basics with C# </a></td>
+<td><a href="https://softuni.bg/certificates/details/134052/1d8d5f63" rel="nofollow"> Click here</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/3836/programming-fundamentals-with-csharp-september-2022" rel="nofollow"> Programming Fundamentals with C# </a></td>
+<td><a href="https://softuni.bg/certificates/details/149101/779ceff8" rel="nofollow"> Click here</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/modules/58/csharp-advanced/1379" rel="nofollow"> C# Advanced </a></td>
+<td><a href="https://softuni.bg/certificates/details/158231/9fe7c906" rel="nofollow"> Click here</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/courses/c-sharp-oop" rel="nofollow"> C# OOP </a></td>
+<td><a href="https://softuni.bg/certificates/details/168772/55dbcd02" rel="nofollow"> Click here</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/4182/ms-sql-september-2023" rel="nofollow"> Databases Basics - MS SQL Server </a></td>
+<td><a href="https://softuni.bg/certificates/details/185684/f8dd6311" rel="nofollow"> Click here</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/4234/entity-framework-core-october-2023" rel="nofollow"> Entity Framework Core </a></td>
+<td><a href="https://softuni.bg/certificates/details/194190/5704e127" rel="nofollow"> Click here</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/4367/asp-net-fundamentals-january-2024" rel="nofollow"> ASP.NET Fundamentals </a></td>
+<td><a href="https://softuni.bg/certificates/details/206874/0f7122e3" rel="nofollow"> Click here</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table>
+<thead>
+<tr>
+<th><strong>Course</strong></th>
+<th><strong>Link</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://softuni.bg/trainings/4149/programming-basics-with-javascript-april-2023" rel="nofollow"> Programming Basics with JavaScript </a></td>
+<td><a href="https://softuni.bg/certificates/details/172671/95c01e2e" rel="nofollow"> Click here</a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" rel="nofollow"> HTML &amp; CSS </a></td>
+<td><a href="https://softuni.bg/certificates/details/182016/f5010ab0" rel="nofollow"> Click here </a></td>
+</tr>
+<tr>
+<td><a href="https://softuni.bg/trainings/4113/js-front-end-june-2023" rel="nofollow"> JS Front-End </a></td>
+<td><a href="https://softuni.bg/certificates/details/184304/bd440d0b" rel="nofollow"> Click here </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr></tbody></table>
+ </p>
+ </div>
 
 
  <br> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gogo7401&show_icons=true&locale=en&layout=compact" alt="gogo7401" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gogo7401&show_icons=true&locale=en" alt="gogo7401" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogo7401&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="gogo7401's GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=gogo7401&theme=buefy&hide_border=true" alt="gogo7401's GitHub Stats" /></p>
 
 
 
