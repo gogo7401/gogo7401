@@ -52,12 +52,12 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://softuni.bg/trainings/3740/programming-basics-with-csharp-april-2022" rel="nofollow"> Programming Basics with C# </a></td>
-<td><a href="https://softuni.bg/certificates/details/134052/1d8d5f63" rel="nofollow"> Click here</a></td>
+<td><a href="https://softuni.bg/trainings/3875/programming-basics-with-csharp-november-2022" rel="nofollow"> Programming Basics with C# </a></td>
+<td><a href="https://softuni.bg/certificates/details/151266/1a24a5df" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
-<td><a href="https://softuni.bg/trainings/3836/programming-fundamentals-with-csharp-september-2022" rel="nofollow"> Programming Fundamentals with C# </a></td>
-<td><a href="https://softuni.bg/certificates/details/149101/779ceff8" rel="nofollow"> Click here</a></td>
+<td><a href="https://softuni.bg/trainings/3950/programming-fundamentals-with-csharp-january-2023" rel="nofollow"> Programming Fundamentals with C# </a></td>
+<td><a href="https://softuni.bg/certificates/details/166545/bd61449f" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/4223/csharp-advanced-september-2023" rel="nofollow"> C# Advanced </a></td>
