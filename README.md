@@ -7,7 +7,7 @@
 - 🔭 I currently work as the head of the "Communication and Information Systems" sector in Communication and Information Systems Directorate, Ministry of Interior, Bulgaria.
 </p>
 <p>
-- 🌱 I’m currently learning C#, .net & asp.net core
+- 🌱 I’m currently learning C#, .net & asp.net core, Javacript, HTML5 and CSS3
 </p>
 <p>
 - 👨‍💻 All of my projects are available at [https://github.com/gogo7401?tab=repositories]
@@ -19,9 +19,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/georgi-georgiev-076179170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/georgi-georgiev-076179170" height="30" width="40" /></a>
-
-<a href="mailto:joro74@gmail.com" target="blank"><img align="center" src="https://github.com/gogo7401/gogo7401/blob/main/email-icon.jpg?raw=true" alt="joro74@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/georgi-georgiev-076179170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/georgi-georgiev-076179170" height="30" width="40" /></a>    <a href="mailto:joro74@gmail.com" target="blank"><img align="center" src="https://github.com/gogo7401/gogo7401/blob/main/email-icon.jpg?raw=true" alt="joro74@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
