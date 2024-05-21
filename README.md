@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/gogo7401?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=gogo7401" alt="gogo7401" /></a> </p>
 <div align="left">
 <p>
-- 🔭 I currently work as the head of the "Communication and Information Systems" sector in Communication and Information Systems Directorate, Ministry of Interior, Bulgaria.
+- 🔭 I currently work as the lead of the "Communication and Information Systems" sector in Communication and Information Systems Directorate, Ministry of Interior, Bulgaria.
 </p>
 <p>
 - 🌱 I’m currently learning C#, .net & asp.net core, JavaScript, HTML5 and CSS3
