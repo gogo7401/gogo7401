@@ -60,24 +60,24 @@
 <td><a href="https://softuni.bg/certificates/details/149101/779ceff8" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
-<td><a href="https://softuni.bg/modules/58/csharp-advanced/1379" rel="nofollow"> C# Advanced </a></td>
-<td><a href="https://softuni.bg/certificates/details/158231/9fe7c906" rel="nofollow"> Click here</a></td>
+<td><a href="https://softuni.bg/trainings/4223/csharp-advanced-september-2023" rel="nofollow"> C# Advanced </a></td>
+<td><a href="https://softuni.bg/certificates/details/188414/1d973c33" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/courses/c-sharp-oop" rel="nofollow"> C# OOP </a></td>
-<td><a href="https://softuni.bg/certificates/details/168772/55dbcd02" rel="nofollow"> Click here</a></td>
+<td><a href="https://softuni.bg/certificates/details/195627/b0a853b4" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/4182/ms-sql-september-2023" rel="nofollow"> Databases Basics - MS SQL Server </a></td>
-<td><a href="https://softuni.bg/certificates/details/185684/f8dd6311" rel="nofollow"> Click here</a></td>
+<td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/4234/entity-framework-core-october-2023" rel="nofollow"> Entity Framework Core </a></td>
-<td><a href="https://softuni.bg/certificates/details/194190/5704e127" rel="nofollow"> Click here</a></td>
+<td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/4367/asp-net-fundamentals-january-2024" rel="nofollow"> ASP.NET Fundamentals </a></td>
-<td><a href="https://softuni.bg/certificates/details/206874/0f7122e3" rel="nofollow"> Click here</a></td>
+<td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
 </tbody>
 </table>
@@ -92,16 +92,12 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://softuni.bg/trainings/4149/programming-basics-with-javascript-april-2023" rel="nofollow"> Programming Basics with JavaScript </a></td>
-<td><a href="https://softuni.bg/certificates/details/172671/95c01e2e" rel="nofollow"> Click here</a></td>
+<td><a href="https://softuni.bg/trainings/4528/html-and-css-may-2024" rel="nofollow"> HTML &amp; CSS </a></td>
+<td><a href="#" rel="nofollow"> Click here </a></td>
 </tr>
 <tr>
-<td><a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" rel="nofollow"> HTML &amp; CSS </a></td>
-<td><a href="https://softuni.bg/certificates/details/182016/f5010ab0" rel="nofollow"> Click here </a></td>
-</tr>
-<tr>
-<td><a href="https://softuni.bg/trainings/4113/js-front-end-june-2023" rel="nofollow"> JS Front-End </a></td>
-<td><a href="https://softuni.bg/certificates/details/184304/bd440d0b" rel="nofollow"> Click here </a></td>
+<td><a href="https://softuni.bg/trainings/4531/js-front-end-june-2024" rel="nofollow"> JS Front-End </a></td>
+<td><a href="#" rel="nofollow"> Click here </a></td>
 </tr>
 </tbody>
 </table>
