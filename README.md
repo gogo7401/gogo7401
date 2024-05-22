@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi Georgiev</h1>
-<h3 align="center">A passionate software developer from Bulgaria</h3>
+<h3 align="center">A passionate software developer from Bulgaria with a strong interest in software development and design. I have experience in creating web applications and designing graphics and user interfaces.</h3>
 
 <p align="center"> <a href="https://github.com/gogo7401?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=gogo7401" alt="gogo7401" /></a> </p>
 <div align="left">
@@ -10,13 +10,13 @@
 - 🌱 I’m currently learning C#, .net & asp.net core, JavaScript, HTML5 and CSS3
 </p>
 <p>
-- 👨‍💻 All of my projects are available at [https://github.com/gogo7401?tab=repositories]
+- 👨‍💻 All of my projects are available at https://github.com/gogo7401?tab=repositories
 </p>
 <p>
 - 📫 How to reach me: <a href="mailto:joro74@gmail.com" target="blank"> joro74@gmail.com</a>
 </p>
 <p>
-- 📄 Know about my experiences [https://github.com/gogo7401?tab=repositories]
+- 📄 Know about my experiences https://github.com/gogo7401?tab=repositories
 </p>
 </div>
 <h3 align="left">Connect with me:</h3>
