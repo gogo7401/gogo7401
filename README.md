@@ -81,7 +81,11 @@
 <td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
-<td><a href="https://softuni.bg/trainings/4367/asp-net-fundamentals-january-2024" rel="nofollow"> ASP.NET Fundamentals </a></td>
+<td><a href="https://softuni.bg/courses/csharp-web-basics" rel="nofollow"> ASP.NET Fundamentals </a></td>
+<td><a href="#" rel="nofollow"> Click here</a></td>
+</tr>
+ <tr>
+<td><a href="https://softuni.bg/courses/asp-net-core" rel="nofollow"> ASP.NET Advanced </a></td>
 <td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
 </tbody>
