@@ -73,19 +73,19 @@
 <td><a href="https://softuni.bg/certificates/details/195627/b0a853b4" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
-<td><a href="https://softuni.bg/trainings/4182/ms-sql-september-2023" rel="nofollow"> Databases Basics - MS SQL Server </a></td>
+<td><a href="https://softuni.bg/courses/ms-sql" rel="nofollow"> C# DB - MS SQL </a></td>
 <td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
-<td><a href="https://softuni.bg/trainings/4234/entity-framework-core-october-2023" rel="nofollow"> Entity Framework Core </a></td>
+<td><a href="https://softuni.bg/courses/entity-framework-core" rel="nofollow"> C# DB - Entity Framework Core </a></td>
 <td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
 <tr>
-<td><a href="https://softuni.bg/courses/csharp-web-basics" rel="nofollow"> ASP.NET Fundamentals </a></td>
+<td><a href="https://softuni.bg/courses/csharp-web-basics" rel="nofollow"> C# Web - ASP.NET Fundamentals </a></td>
 <td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
  <tr>
-<td><a href="https://softuni.bg/courses/asp-net-core" rel="nofollow"> ASP.NET Advanced </a></td>
+<td><a href="https://softuni.bg/courses/asp-net-core" rel="nofollow"> C# Web - ASP.NET Advanced </a></td>
 <td><a href="#" rel="nofollow"> Click here</a></td>
 </tr>
 </tbody>
