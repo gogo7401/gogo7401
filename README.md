@@ -102,7 +102,7 @@
 <tbody>
 <tr>
 <td><a href="https://softuni.bg/trainings/4528/html-and-css-may-2024" rel="nofollow"> HTML &amp; CSS </a></td>
-<td><a href="#" rel="nofollow"> Click here </a></td>
+<td><a href="https://softuni.bg/certificates/certificates/converttoimage/218393?code=a846fd39" rel="nofollow"> Click here </a></td>
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/4531/js-front-end-june-2024" rel="nofollow"> JS Front-End </a></td>
