@@ -40,7 +40,7 @@
 <h1 align="left">Certificates 📜 </h1>
 </div>
  <div dir="auto">
-  <p align="top">
+  <p align="center">
 <table>
 <tbody><tr>
   <th> C# - CSharp (.NET) </th>
