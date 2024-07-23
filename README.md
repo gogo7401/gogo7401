@@ -91,7 +91,7 @@
 </tbody>
 </table>
 </td>
-<td>
+<td style="vertical-align:top">
 <table>
 <thead>
 <tr>
