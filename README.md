@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi Georgiev</h1>
-<h3 align="center">A passionate software developer from Bulgaria with a strong interest in software development and design. I have experience in creating web applications and designing graphics and user interfaces.</h3>
+<h3 align="center">A passionate software developer from Bulgaria with a strong interest in software development and design. I have experience in creating web applications, designing graphics and user interfaces.</h3>
 <br>
 <p align="center"> <a href="https://github.com/gogo7401?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=gogo7401" alt="gogo7401" /></a> </p>
  <br> 
