@@ -106,7 +106,7 @@
 </tr>
 <tr>
 <td><a href="https://softuni.bg/trainings/4531/js-front-end-june-2024" rel="nofollow"> JS Front-End </a></td>
-<td><a href="#" rel="nofollow"> Click here </a></td>
+<td><a href="https://softuni.bg/certificates/certificates/converttoimage/223861?code=251cc96c" rel="nofollow"> Click here </a></td>
 </tr>
 </tbody>
 </table>
